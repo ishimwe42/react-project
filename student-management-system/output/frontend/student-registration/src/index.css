@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+html { min-width: 320px; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; font-family: 'DM Sans', 'Segoe UI', sans-serif; background: #f5f7fc; }
+#root { width: 100%; min-height: 100vh; }
+button, input, select { font: inherit; }
+a { color: inherit; text-decoration: none; }
+::selection { background: #5b5bd6; color: #fff; }
